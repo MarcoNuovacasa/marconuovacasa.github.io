@@ -1,0 +1,20 @@
+{
+  "Content": [
+    {
+      "brand": "Brand One",
+      "collection": "Collection one",
+      "chunkid": 1005,
+      "downloadlink": "Facebook.com",
+      "enabled": true,
+      "websitelink": "Facebook.com"
+    },
+    {
+      "brand": "Brand Two",
+      "collection": "Collection two",
+      "chunkid": 1023,
+      "downloadlink": "Google.com",
+      "enabled": true,
+      "websitelink": "Google.com"
+    }
+  ]
+}
