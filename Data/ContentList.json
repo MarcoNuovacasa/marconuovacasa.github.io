@@ -1,5 +1,7 @@
 {
-  "Content": [
+  "Content": 
+  //Put content underneat this, between the [] brackets
+  [
     {
       "brand": "Brand One",
       "collection": "Collection one",
@@ -15,6 +17,17 @@
       "downloadlink": "Google.com",
       "enabled": true,
       "websitelink": "Google.com"
+    },
+    {
+      "brand": "Brand Three",
+      "collection": "Collection three",
+      "chunkid": 1006,
+      "downloadlink": "Nu.nl",
+      "enabled": false,
+      "websitelink": "Nu.nl"
     }
   ]
+
+
 }
+
