@@ -3,29 +3,22 @@
  
   [
     {
-      "brand": "Brand One",
-      "collection": "Collection one",
+      "brand": "Nintendo",
+      "collection": "Mario",
       "chunkid": 1005,
-      "downloadlink": "Facebook.com",
+      "downloadlink": "https://www.googleapis.com/drive/v3/files/15ApPwY5mbZZnMliTiJDVDmt3yHdbHFab?alt=media&key=AIzaSyDjnvvq4gCCh1i1-ngK3bQ7xKYLrXir66k",
       "enabled": true,
-      "websitelink": "Facebook.com"
+      "websitelink": "https://https://www.unlit.studio/"
     },
     {
-      "brand": "Brand Two",
-      "collection": "Collection two",
-      "chunkid": 1023,
-      "downloadlink": "Google.com",
-      "enabled": true,
-      "websitelink": "Google.com"
-    },
-    {
-      "brand": "Brand Three",
-      "collection": "Collection three",
+      "brand": "Nintendo",
+      "collection": "Mario's brother'",
       "chunkid": 1006,
-      "downloadlink": "Nu.nl",
-      "enabled": false,
-      "websitelink": "Nu.nl"
-    }
+      "downloadlink": "https://www.googleapis.com/drive/v3/files/1bVYRC2MxHyLU6oZhJuD-UyKKsTW4IncT?alt=media&key=AIzaSyDjnvvq4gCCh1i1-ngK3bQ7xKYLrXir66k",
+      "enabled": true,
+      "websitelink": "https://https://www.unlit.studio/"
+    },
+
   ]
 
 
