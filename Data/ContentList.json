@@ -8,7 +8,8 @@
       "chunkid": 1005,
       "downloadlink": "https://www.googleapis.com/drive/v3/files/15ApPwY5mbZZnMliTiJDVDmt3yHdbHFab?alt=media&key=AIzaSyDjnvvq4gCCh1i1-ngK3bQ7xKYLrXir66k",
       "enabled": true,
-      "websitelink": "https://https://www.unlit.studio/"
+      "websitelink": "https://https://www.unlit.studio/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png"
     },
     {
       "brand": "Nintendo",
@@ -16,7 +17,8 @@
       "chunkid": 1006,
       "downloadlink": "https://www.googleapis.com/drive/v3/files/1bVYRC2MxHyLU6oZhJuD-UyKKsTW4IncT?alt=media&key=AIzaSyDjnvvq4gCCh1i1-ngK3bQ7xKYLrXir66k",
       "enabled": true,
-      "websitelink": "https://https://www.unlit.studio/"
+      "websitelink": "https://https://www.unlit.studio/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.png"
     },
 
   ]
