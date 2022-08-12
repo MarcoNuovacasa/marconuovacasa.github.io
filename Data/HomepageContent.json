@@ -1,0 +1,26 @@
+{
+  "News": [
+    {
+      "Titel": "Dikke vette lijpe launcher",
+      "Text": "Unlit heeft nu ook een Launcher, wat zijn we toch weer lekker bezig",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png"
+    }
+
+  ],
+
+  "Patchnotes": [
+    {
+      "Text": "To do: Inlogsysteem, content-download size, downloadbalk content, opmaakt deze tekst"
+    }
+
+  ],
+
+  "Featured": [
+    {
+      "Titel": "Wow",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png"
+    }
+
+  ]
+}
+
