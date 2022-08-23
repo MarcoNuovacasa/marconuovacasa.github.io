@@ -10,17 +10,21 @@
       "zipname": "Mario-Pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png"
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png",
+      "ModelCount": "1",
+      "Description":  "This pack contains Mario"
     },
     {
       "brand": "Nintendo",
       "collection": "Mario's brother",
       "chunkid": 1006,
       "downloadlink": "https://www.googleapis.com/drive/v3/files/1bVYRC2MxHyLU6oZhJuD-UyKKsTW4IncT?alt=media&key=AIzaSyDjnvvq4gCCh1i1-ngK3bQ7xKYLrXir66k",
-      "zipname":  "Luigi-Pak",
+      "zipname": "Luigi-Pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.png"
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.png",
+      "ModelCount": "1",
+      "Description": "This pack contains Luigi"
     },
 
   ]
