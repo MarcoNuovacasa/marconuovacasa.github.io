@@ -10,7 +10,7 @@
       "zipname": "Mario-Pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.png",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.jpg",
       "ModelCount": "1",
       "Description":  "This pack contains Mario"
     },
@@ -22,7 +22,7 @@
       "zipname": "Luigi-Pak",
       "enabled": true,
       "websitelink": "https://www.unlit.studio/",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.png",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.jpg",
       "ModelCount": "1",
       "Description": "This pack contains Luigi"
     },
