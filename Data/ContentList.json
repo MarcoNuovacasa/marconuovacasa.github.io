@@ -12,7 +12,10 @@
       "websitelink": "https://www.unlit.studio/",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Mario.jpg",
       "ModelCount": "1",
-      "Description":  "This pack contains Mario"
+      "Description": "This pack contains Mario",
+      "Size": "280 kB",
+      "Version": "1.0",
+      "VersionDate": "24-08-2022"
     },
     {
       "brand": "Nintendo",
@@ -24,7 +27,10 @@
       "websitelink": "https://www.unlit.studio/",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Luigi.jpg",
       "ModelCount": "1",
-      "Description": "This pack contains Luigi"
+      "Description": "This pack contains Luigi",
+      "Size": "1,11 MB",
+      "Version": "1.0",
+      "VersionDate": "24-08-2022"
     },
 
   ]
