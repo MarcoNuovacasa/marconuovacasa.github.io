@@ -23,6 +23,23 @@
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png"
     }
 
+  ],
+
+  "Youtube": [
+    {
+      "Link": "https://www.youtube.com/embed/DMnh1YEydb0"
+    }
+
+  ],
+
+  "Blog": [
+    {
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Flexa_Binti_WADM_Rect.jpg",
+      "Titel": "Hoe kun je jezelf als interieurstylist onderscheiden met 3D visualisaties?",
+      "Link": "https://www.unlit.studio/onderscheiden-met-3d-visualisaties/"
+    }
+
   ]
+
 }
 
