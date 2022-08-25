@@ -27,7 +27,9 @@
 
   "Youtube": [
     {
-      "Link": "https://www.youtube.com/embed/DMnh1YEydb0"
+      "Link": "https://youtu.be/DMnh1YEydb0",
+      "Title": "Modelleren met basisvormen - UNLIT",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Youtube_Thumb.png"
     }
 
   ],
