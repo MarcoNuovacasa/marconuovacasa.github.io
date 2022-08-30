@@ -4,7 +4,7 @@
       "Type": "New feature",
       "Titel": "We got a launcher!",
       "Text": "Unlit now comes with a Launcher!",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Slide.png",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
       "Link": "https://unlit.studio"
     }
 
@@ -12,8 +12,8 @@
 
   "Patchnotes": [
     {
-      "Titel": "Patch 0.0.7 - 'Wow'",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Titel": "Patch 0.0.7 - 'Images'",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/NieuweVersie_02.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
 
@@ -22,7 +22,7 @@
   "Featured": [
     {
       "Titel": "Featured",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Werk_aan_de_Muur_demo.jpg",
       "Text": "Big fat panda!",
       "Link": "https://unlit.studio"
     }
@@ -34,7 +34,7 @@
       "Link": "https://youtu.be/DMnh1YEydb0",
       "Titel": "Unlit is cool",
       "Text": "Very cool",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Youtube_Thumb.png"
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/corridor_netherlands02_Post_No-sun.png"
     }
 
   ]
