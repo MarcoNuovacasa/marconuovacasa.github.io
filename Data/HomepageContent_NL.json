@@ -1,18 +1,20 @@
 {
   "News": [
     {
-      "Group": "New feature",
+      "Type": "New feature",
       "Titel": "Dikke vette lijpe launcher",
       "Text": "Unlit heeft nu ook een Launcher, wat zijn we toch weer lekker bezig. Hopelijke komt er in de toekomst nog heel wat bij! en we hebben nieuwe stagiares",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Slide.png"
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Slide.png",
+      "Link": "https://unlit.studio"
     }
 
   ],
 
   "Patchnotes": [
     {
-      "Titel": "Patch 0.0.1 - 'Wauw'",
-      "Text": "To do:/nInlogsysteem,/ncontent-download size,/ndownloadbalk content,/nopmaak deze tekst"
+      "Titel": "Patch 0.0.5 - 'Wauw'",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Link": "https://www.unlit.studio/changelog/"
     }
 
   ],
@@ -20,25 +22,19 @@
   "Featured": [
     {
       "Titel": "Wauw!",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png"
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Text": "Test",
+      "Link": "https://unlit.studio"
     }
 
   ],
 
-  "Youtube": [
+  "Featuredd": [
     {
       "Link": "https://youtu.be/DMnh1YEydb0",
       "Titel": "Modelleren met basisvormen - UNLIT",
+      "Text": "Test",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Youtube_Thumb.png"
-    }
-
-  ],
-
-  "Blog": [
-    {
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Flexa_Binti_WADM_Rect.jpg",
-      "Titel": "Hoe kun je jezelf als interieurstylist onderscheiden met 3D visualisaties?",
-      "Link": "https://www.unlit.studio/onderscheiden-met-3d-visualisaties/"
     }
 
   ]

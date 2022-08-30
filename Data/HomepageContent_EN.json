@@ -1,44 +1,40 @@
 {
   "News": [
     {
-      "Group": "New feature",
-      "Titel": "Big fat slim launcher",
-      "Text": "Unlit now also has a Launcher, we are so busy again. Hopefully there will be more in the future! and we have new interns",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Slide.png"
+      "Type": "New feature",
+      "Titel": "We got a launcher!",
+      "Text": "Unlit now comes with a Launcher!",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Slide.png",
+      "Link": "https://unlit.studio"
     }
 
   ],
 
   "Patchnotes": [
     {
-      "Titel": "Patch 0.0.5 - 'Wow'",
-      "Text": "To do: Log in system, Content-download size, Download visual content, format this text"
+      "Titel": "Patch 0.0.7 - 'Wow'",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Link": "https://www.unlit.studio/changelog/"
     }
 
   ],
 
   "Featured": [
     {
-      "Titel": "Wow!",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png"
+      "Titel": "Featured",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/House_B.png",
+      "Text": "Big fat panda!",
+      "Link": "https://unlit.studio"
     }
 
   ],
 
-  "Youtube": [
+  "Featuredd": [
     {
       "Link": "https://youtu.be/DMnh1YEydb0",
-      "Titel": "Modeling with basic shapes - UNLIT",
+      "Titel": "Unlit is cool",
+      "Text": "Very cool",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Youtube_Thumb.png"
-    }
-
-  ],
-
-  "Blog": [
-    {
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Flexa_Binti_WADM_Rect.jpg",
-      "Titel": "How can you distinguish yourself as an interior stylist with 3D visualisations?",
-      "Link": "https://www.unlit.studio/onderscheiden-met-3d-visualisaties/"
     }
 
   ]
