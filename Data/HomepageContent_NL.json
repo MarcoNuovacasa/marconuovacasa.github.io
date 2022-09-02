@@ -3,7 +3,7 @@
     {
       "Type": "New feature",
       "Titel": "Dikke vette lijpe launcher",
-      "Text": "Unlit heeft nu ook een Launcher, wat zijn we toch weer lekker bezig. Hopelijke komt er in de toekomst nog heel wat bij! en we hebben nieuwe stagiares",
+      "Text": "Unlit heeft nu ook een Launcher, wat moet Marco nog doen - Launcher: Opmaak fixen voor deze tekst (Uitlijnen etc), Login systeem fixen (API) + gebruikers limiteren adhv subscription, Zoekbalk fixen (nice to have) - Prelauncher: Multithreading zodat de UI interactive blijft, Feedback geven aan de gebruiker - Anders:Repository maken, Code refactoring, Installatiefolder kiezen (? en waarvan?), S3 bucket maken en links aanpassen",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
       "Link": "https://unlit.studio"
     }
