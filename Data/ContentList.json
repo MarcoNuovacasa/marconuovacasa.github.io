@@ -122,33 +122,33 @@
     },
     {
       "brand": "COMING SOON",
-      "collection": "",
+      "collection": "null",
       "chunkid": 10144,
-      "downloadlink": "",
-      "zipname": "",
+      "downloadlink": "null",
+      "zipname": "null",
       "enabled": true,
       "websitelink": "https://label.nl/",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/label.jpg",
-      "ModelCount": "",
+      "ModelCount": "0",
       "Description": "Binnenkort komen de meubels van Label VAN DEN BERG in Unlit",
-      "Size": "",
-      "Version": "",
-      "VersionDate": ""
+      "Size": "null",
+      "Version": "null",
+      "VersionDate": "null"
     },
     {
       "brand": "COMING SOON",
-      "collection": "",
+      "collection": "null",
       "chunkid": 10145,
-      "downloadlink": "",
-      "zipname": "",
+      "downloadlink": "null",
+      "zipname": "null",
       "enabled": true,
       "websitelink": "https://www.tarkett.nl/",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/Tarkett.jpg",
-      "ModelCount": "",
+      "ModelCount": "0",
       "Description": "Binnenkort komen de vloeren van Tarkett in Unlit",
-      "Size": "",
-      "Version": "",
-      "VersionDate": ""
+      "Size": "null",
+      "Version": "null",
+      "VersionDate": "null"
     }
   ]
 
