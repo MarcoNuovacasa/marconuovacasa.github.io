@@ -1,9 +1,9 @@
 {
   "News": [
     {
-      "Type": "New feature",
-      "Titel": "Dikke vette lijpe launcher",
-      "Text": "Unlit heeft nu ook een Launcher, wat moet Marco nog doen - Launcher: Opmaak fixen voor deze tekst (Uitlijnen etc), Login systeem fixen (API) + gebruikers limiteren adhv subscription, Zoekbalk fixen (nice to have) - Prelauncher: Multithreading zodat de UI interactive blijft, Feedback geven aan de gebruiker - Anders:Repository maken, Code refactoring, Installatiefolder kiezen (? en waarvan?), S3 bucket maken en links aanpassen",
+      "Type": "Welcome back!",
+      "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
+      "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubelen en decoratie. Oftewel: uiterst gemakkelijk fotorealistische interieurs en exterieurs creëren met de klant aan tafel. In deze omgeving ontvang je altijd de laatste updates op het gebied van functionaliteiten en content.",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
       "Link": "https://unlit.studio"
     }
@@ -12,7 +12,7 @@
 
   "Patchnotes": [
     {
-      "Titel": "Patch 0.0.7 - 'Prachtig'",
+      "Titel": "Changelog 1.3.0 - 'Bekijk de laatste updates'",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/NieuweVersie_02.jpg",
       "Link": "https://www.unlit.studio/changelog/"
     }
@@ -21,19 +21,19 @@
 
   "Featured": [
     {
-      "Titel": "Wauw!",
+      "Titel": "Direct alles uit Unlit halen?",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Werk_aan_de_Muur_demo.jpg",
-      "Text": "Vretige panda",
-      "Link": "https://unlit.studio"
+      "Text": "Tutorials bekijken",
+      "Link": "https://youtube.com/playlist?list=PLRmJunNi2Q85OqdxyEEGG76OKs5PRmQgQ"
     }
 
   ],
 
   "Featuredd": [
     {
-      "Link": "https://youtu.be/DMnh1YEydb0",
-      "Titel": "Modelleren met basisvormen - UNLIT",
-      "Text": "Oke",
+      "Link": "https://youtu.be/xGMb6dPY_Y4",
+      "Titel": "Heb jij je collega's al overtuigd?",
+      "Text": "Unlit Studio Demo",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/corridor_netherlands02_Post_No-sun.png"
     }
 
