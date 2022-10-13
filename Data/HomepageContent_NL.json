@@ -29,12 +29,13 @@
 
   ],
 
-  "Featuredd": [
+  "Featured2": [
     {
-      "Link": "https://www.youtube.com/watch?v=xGMb6dPY_Y4",
       "Titel": "Heb jij je collega's al overtuigd?",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/corridor_netherlands02_Post_No-sun.png",
       "Text": "Unlit Studio Demo",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/corridor_netherlands02_Post_No-sun.png"
+      "Link": "https://www.youtube.com/watch?v=xGMb6dPY_Y4"
+
     }
 
   ]
