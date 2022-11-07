@@ -16,6 +16,21 @@
     },
 
     {
+      "brand": "Quick-Step",
+      "chunkid": 10151,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10151-windows.zip",
+      "zipname": "pakchunk10151-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.quick-step.nl/nl-nl",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/24.png",
+      "ModelCount": "6",
+      "Description": " De PVC vloeren van Quick-Step",
+      "Size": "178.7 KB",
+      "Version": "1.0.0",
+      "VersionDate": "26-10-2022"
+    },
+
+    {
       "brand": "Flexa",
       "chunkid": 10111,
       "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10111-windows.zip",
