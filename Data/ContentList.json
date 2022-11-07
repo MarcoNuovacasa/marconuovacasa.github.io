@@ -25,7 +25,7 @@
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/24.png",
       "ModelCount": "6",
       "Description": " De PVC vloeren van Quick-Step",
-      "Size": "178.7 KB",
+      "Size": "280 MB KB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
@@ -71,6 +71,21 @@
       "ModelCount": "24",
       "Description": " Op maat gemaakte kunstwerken",
       "Size": "32.8 MB",
+      "Version": "1.0.0",
+      "VersionDate": "26-10-2022"
+    },
+
+    {
+      "brand": "mFlor",
+      "chunkid": 10114,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10114-windows.zip",
+      "zipname": "pakchunk10114-windows.zip",
+      "enabled": true,
+      "websitelink": "https://mflor.com/nl/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/23.png",
+      "ModelCount": "4",
+      "Description": "",
+      "Size": "6.1 MB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
