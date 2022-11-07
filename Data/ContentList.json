@@ -76,21 +76,6 @@
     },
 
     {
-      "brand": "mFlor",
-      "chunkid": 10115,
-      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10115-windows.zip",
-      "zipname": "pakchunk10115-windows.zip",
-      "enabled": true,
-      "websitelink": "https://mflor.com/nl/",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/23.png",
-      "ModelCount": "4",
-      "Description": "",
-      "Size": "6.1 MB",
-      "Version": "1.0.0",
-      "VersionDate": "26-10-2022"
-    },
-
-    {
       "brand": "&Tradition",
       "chunkid": 10116,
       "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10116-windows.zip",
