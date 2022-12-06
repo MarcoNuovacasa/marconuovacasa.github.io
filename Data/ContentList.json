@@ -1,6 +1,21 @@
 {
   "Content": [
     {
+      "brand": "Artifort",
+      "chunkid": 10155,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10155-windows.zip",
+      "zipname": "pakchunk10155-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.artifort.com/nl/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/40.png",
+      "ModelCount": "382",
+      "Description": " De Artifort collectie wordt gekenmerkt door innovatief, kleurrijk en tijdloos design met haar herkenbare vormgeving.",
+      "Size": "2.09 HB",
+      "Version": "1.0.0",
+      "VersionDate": "06-12-2022"
+    },
+
+    {
       "brand": "Behangexpresse",
       "chunkid": 10101,
       "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10101-windows.zip",
