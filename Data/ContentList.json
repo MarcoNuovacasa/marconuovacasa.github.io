@@ -1,5 +1,34 @@
 {
   "Content": [
+    {
+      "brand": "Artifort",
+      "chunkid": 10155,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10155-windows.zip",
+      "zipname": "pakchunk10155-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.artifort.com/nl/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/40.png",
+      "ModelCount": "382",
+      "Description": " De Artifort collectie wordt gekenmerkt door innovatief, kleurrijk en tijdloos design met haar herkenbare vormgeving.",
+      "Size": "2.09 HB",
+      "Version": "1.0.0",
+      "VersionDate": "06-12-2022"
+    },
+
+    {
+      "brand": "Eijffinger",
+      "chunkid": 10156,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10156-windows.zip",
+      "zipname": "pakchunk10156-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.eijffinger.com/nl-NL",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/42.png",
+      "ModelCount": "382",
+      "Description": " Maak jouw wereld mooier met de uitgesproken en kleurige dessins op behang en interieurstoffen van Eijffinger.",
+      "Size": "2.09 HB",
+      "Version": "1.0.0",
+      "VersionDate": "09-12-2022"
+    },
 
     {
       "brand": "Behangexpresse",
