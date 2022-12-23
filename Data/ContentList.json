@@ -1,6 +1,21 @@
 {
   "Content": [
     {
+      "brand": "Vivafloors",
+      "chunkid": 10157,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10157-windows.zip",
+      "zipname": "pakchunk10157-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.vivafloors.nl/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/84.png",
+      "ModelCount": "69",
+      "Description": " Prachtige vloeren voor jouw lifestyle. Bijzonder authentiek én met de voordelen van PVC",
+      "Size": "1.43 GB",
+      "Version": "1.0.0",
+      "VersionDate": "06-12-2022"
+    },
+
+    {
       "brand": "Artifort",
       "chunkid": 10155,
       "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10155-windows.zip",
@@ -10,7 +25,7 @@
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/40.png",
       "ModelCount": "382",
       "Description": " De Artifort collectie wordt gekenmerkt door innovatief, kleurrijk en tijdloos design met haar herkenbare vormgeving.",
-      "Size": "2.09 HB",
+      "Size": "2.09 GB",
       "Version": "1.0.0",
       "VersionDate": "06-12-2022"
     },
@@ -23,9 +38,9 @@
       "enabled": true,
       "websitelink": "https://www.eijffinger.com/nl-NL",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/42.png",
-      "ModelCount": "382",
+      "ModelCount": "579",
       "Description": " Maak jouw wereld mooier met de uitgesproken en kleurige dessins op behang en interieurstoffen van Eijffinger.",
-      "Size": "2.09 HB",
+      "Size": "2 GB",
       "Version": "1.0.0",
       "VersionDate": "09-12-2022"
     },
@@ -38,9 +53,9 @@
       "enabled": true,
       "websitelink": "https://behangexpresse.com/",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/54.png",
-      "ModelCount": "2",
+      "ModelCount": "645",
       "Description": " Creëer een geheel nieuwe omgeving met de schitterende behangcollecties van Behangexpresse. Moderne patronen, dierenprints, hout- , steen- en natuurprints, maar ook unieke kinderpatronen en meer.",
-      "Size": "24.1 MB",
+      "Size": "3.93 GB",
       "Version": "1.0.0",
       "VersionDate": "26-10-2022"
     },
