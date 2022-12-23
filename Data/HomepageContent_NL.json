@@ -3,7 +3,7 @@
     {
       "Type": "Welcome back!",
       "Titel": "Dé visualisatie software voor de vastgoed- en interieursector",
-      "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubelen en decoratie. Oftewel: uiterst gemakkelijk fotorealistische interieurs en exterieurs creëren met de klant aan tafel. In deze omgeving ontvang je altijd de laatste updates op het gebied van functionaliteiten en content.",
+      "Text": "Met Unlit Studio creëer je in een handomdraai een levensechte 3D-woonruimte, compleet met meubelen en decoratie. Oftewel: uiterst gemakkelijk fotorealistische interieurs en exterieurs creëren met de klant aan tafel. &amp;#10;Nieuwe merken: Vivafloors Nieuwe Basis content: Raambekleding pack, Accessoires pack Bijgewerkte contentpacks: Desso | Gelderland | Spectrum | Decolegno | Artifort | Eijffinger | Label",
       "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/1643988038.png",
       "Link": "https://unlit.studio"
     }
@@ -31,10 +31,10 @@
 
   "Featured2": [
     {
-      "Titel": "Heb jij je collega's al overtuigd?",
-      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/RenderUnlit.jpg",
-      "Text": "Unlit Studio Demo",
-      "Link": "https://www.youtube.com/watch?v=xGMb6dPY_Y4"
+      "Titel": "In the spotlight",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Artifort_1.jpg",
+      "Text": "Artifort",
+      "Link": "https://www.unlit.studio/unlit-portfolio/artifort/"
 
     }
 
