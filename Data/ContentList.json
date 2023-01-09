@@ -1,6 +1,21 @@
 {
   "Content": [
     {
+      "brand": "BKS Meubelen",
+      "chunkid": 10158,
+      "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10158-windows.zip",
+      "zipname": "pakchunk10158-windows.zip",
+      "enabled": true,
+      "websitelink": "https://www.bks-holland.com/",
+      "Image": "https://raw.githubusercontent.com/MarcoNuovacasa/marconuovacasa.github.io/main/Images/Thumbnails/85.png",
+      "ModelCount": "263",
+      "Description": " De allerlaatste trends, van modern tot klassiek, vindt u de veelzijdige collectie massief houten meubelen van BKS Meubelen",
+      "Size": "1.43 GB",
+      "Version": "1.0.0",
+      "VersionDate": "06-12-2022"
+    },
+
+    {
       "brand": "Vivafloors",
       "chunkid": 10157,
       "downloadlink": "https://unlit.s3.eu-west-1.amazonaws.com/content/pakchunk10157-windows.zip",
